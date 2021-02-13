@@ -1,0 +1,7 @@
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\bin\Debug\CodeStorePrograms.exe.config
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\bin\Debug\CodeStorePrograms.exe
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\bin\Debug\CodeStorePrograms.pdb
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\obj\Debug\CodeStorePrograms.csprojAssemblyReference.cache
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\obj\Debug\CodeStorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\obj\Debug\CodeStorePrograms.exe
+C:\Users\gopal\source\repos\CodeStorePrograms\CodeStorePrograms\obj\Debug\CodeStorePrograms.pdb
